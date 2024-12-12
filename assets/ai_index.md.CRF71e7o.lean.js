@@ -1,0 +1,1 @@
+import{_ as t,c as a,j as n,o as r}from"./chunks/framework.DxIn8i6N.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ai/index.md","filePath":"ai/index.md"}'),o={name:"ai/index.md"};function s(i,e,d,c,p,l){return r(),a("div",null,e[0]||(e[0]=[n("p",null,"导航",-1)]))}const f=t(o,[["render",s]]);export{_ as __pageData,f as default};

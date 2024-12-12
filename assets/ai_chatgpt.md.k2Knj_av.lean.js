@@ -1,0 +1,1 @@
+import{_ as a,c as e,j as r,o}from"./chunks/framework.DxIn8i6N.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ai/chatgpt.md","filePath":"ai/chatgpt.md"}'),s={name:"ai/chatgpt.md"};function n(p,t,c,i,d,l){return o(),e("div",null,t[0]||(t[0]=[r("p",null,"gpt",-1)]))}const f=a(s,[["render",n]]);export{_ as __pageData,f as default};
