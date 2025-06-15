@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as i,ae as t}from"./chunks/framework.BjlC_BXf.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ai/rag/rag4.md","filePath":"ai/rag/rag4.md"}'),e={name:"ai/rag/rag4.md"};function p(r,n,l,o,g,c){return i(),a("div",null,n[0]||(n[0]=[t("",59)]))}const d=s(e,[["render",p]]);export{u as __pageData,d as default};
